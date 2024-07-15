@@ -1,5 +1,5 @@
 # Qiita-Contents
-Qiita管理用リポジトリです。
+This is the repository for managing the Qiita.
 
 ## [Qiita My Page👋](https://qiita.com/nicomputer "")
 
